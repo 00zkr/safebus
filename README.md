@@ -6,11 +6,7 @@ The project includes a Node.js backend, a React web dashboard, a native Android 
 
 ## Video Demo
 
-Add your demo video link here:
-
-```text
-TODO: https://your-demo-video-link.com
-```
+Demo Video
 
 ## Features
 
