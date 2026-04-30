@@ -339,6 +339,5 @@ It includes:
 - Deploy to a cloud server.
 - Improve production security configuration.
 
-## License
-
-This project is currently prepared for academic/demo use. Add a license before publishing it as an open-source project.
+## Rhendour Zakaria
+Final Project of web and mobile development class by Pr. Lachgar
